@@ -1,0 +1,8 @@
+*.class
+.idea/
+*.iml
+out/
+out-run/
+target/
+.tools/
+.DS_Store
